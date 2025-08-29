@@ -7,9 +7,9 @@ export class Provider {
     this.config = config;
   }
 
-  async send(message : string) {
+  async send(message : any) {
     throw new Error("Provider.send must be implemented");
   }
 
-  supports(field : any) { return false; }
+  supports(field : string) { return false; }
 }
