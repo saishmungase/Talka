@@ -11,7 +11,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "nodemailer": "^7.0.5"
+    "nodemailer": "^7.0.5",
+    "zod": "^4.1.5"
   },
   "devDependencies": {
     "@types/nodemailer": "^7.0.1"
