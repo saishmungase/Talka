@@ -1,4 +1,4 @@
-import { Provider } from "../talka/core.interface.js";
+import { Provider } from "../fastforward/core.interface.js";
 import nodemailer from "nodemailer";
 import type { Transporter } from "nodemailer"
 import fs from "fs"
