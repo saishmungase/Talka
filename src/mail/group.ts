@@ -41,12 +41,12 @@ export class Group{
         this.groups.set(key, group);
     }
 
-    removeGroupMember(key : string, person : string){
-        let group = this.getGroup(key);
-        if (group) {
-            group = group.filter(p => p !== person);
-        }
-        return (!group) ? undefined : this.groups.set(key, group);
+    removeGroupMember(key: string, person: string): boolean {
+      const group = this.getGroup(key);
+      if (!group) return false;
+      const updated = group.filter(p => p !== person);
+      this.groups.set(key, updated);
+      return true;
     }
 
 }
