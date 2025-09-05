@@ -1,9 +1,12 @@
 {
-  "name": "talka",
+  "name": "chat",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "npx tsc -b"
   },
   "type": "module",
   "keywords": [],
@@ -11,6 +14,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "dotenv": "^17.2.2",
     "node-cron": "^4.2.1",
     "nodemailer": "^7.0.5"
   },
