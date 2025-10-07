@@ -14,30 +14,80 @@
 *Send direct, bulk, templated emails, manage groups, schedule delivery, and handle attachments — all with a simple, customizable API.*
 
 [📚 Documentation](docs/reference.md) • [🚀 Quick Start](docs/getting-started.md) • [💡 Installation](docs/installation.md) • 🤝 Open For Contribution
-
-[![NPM Package Stats](https://npm-stat.com/charts/fastforwardit)](https://www.npmjs.com/package/fastforwardit)
-
 </div>
 
 ## 📊 Package Stats & Trends
 
-<div align="center">
+<p align="center">
+  <strong>📈 Real-time NPM Statistics</strong><br/><br/>
+  🔗 <a href="https://npm-stat.com/charts.html?package=fastforwardit">NPM Package Stats (npm-stat.com)</a><br/>
+  🔗 <a href="https://npmtrends.com/fastforwardit">Download Trends (npmtrends.com)</a><br/>
+</p>
 
-### 📈 Real-time NPM Statistics
+<br/>
 
-[![Download Trends](https://npmtrends.com/fastforwardit?style=for-the-badge)](https://npmtrends.com/fastforwardit)
+<p align="center">
+<table>
+  <thead>
+    <tr>
+      <th>📌 Metric</th>
+      <th>🔢 Current Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>📦 Current Version</strong></td>
+      <td>
+        <a href="https://www.npmjs.com/package/fastforwardit">
+          <img src="https://img.shields.io/npm/v/fastforwardit?color=green&logo=npm" alt="npm version"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>📥 Total Downloads</strong></td>
+      <td>
+        <a href="https://www.npmjs.com/package/fastforwardit">
+          <img src="https://img.shields.io/npm/dt/fastforwardit?color=blue&logo=npm" alt="total downloads"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>📅 Weekly Downloads</strong></td>
+      <td>
+        <a href="https://www.npmjs.com/package/fastforwardit">
+          <img src="https://img.shields.io/npm/dw/fastforwardit?color=brightgreen&logo=npm" alt="weekly downloads"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>📦 Bundle Size</strong></td>
+      <td>
+        <a href="https://bundlephobia.com/package/fastforwardit">
+          <img src="https://img.shields.io/bundlephobia/minzip/fastforwardit?color=orange&logo=webpack" alt="bundle size"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>📄 License</strong></td>
+      <td>
+        <a href="https://github.com/yourusername/fastforwardit/blob/main/LICENSE">
+          <img src="https://img.shields.io/npm/l/fastforwardit?color=blue" alt="license"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-| Metric | Current Value | 
-|--------|---------------|
-| **📦 Current Version** | [![npm](https://img.shields.io/npm/v/fastforwardit?color=green&logo=npm)](https://www.npmjs.com/package/fastforwardit) |
-| **📥 Total Downloads** | [![npm downloads](https://img.shields.io/npm/dt/fastforwardit?color=blue&logo=npm)](https://www.npmjs.com/package/fastforwardit) |
-| **📅 Weekly Downloads** | [![weekly downloads](https://img.shields.io/npm/dw/fastforwardit?color=brightgreen&logo=npm)](https://www.npmjs.com/package/fastforwardit) |
-| **📦 Bundle Size** | [![bundle size](https://img.shields.io/bundlephobia/minzip/fastforwardit?color=orange&logo=webpack)](https://bundlephobia.com/package/fastforwardit) |
-| **📄 License** | [![license](https://img.shields.io/npm/l/fastforwardit?color=blue)](https://github.com/yourusername/fastforwardit/blob/main/LICENSE) |
+<br/>
 
-**📊 View detailed analytics:** [npm-stat](https://npm-stat.com/charts/fastforwardit) • [npmtrends](https://npmtrends.com/fastforwardit) • [bundlephobia](https://bundlephobia.com/package/fastforwardit)
+</p>
 
-</div>
+<p align="center">
+  <strong>📊 View detailed analytics:</strong><br/>
+  <a href="https://npm-stat.com/charts.html?package=fastforwardit">npm-stat</a> • 
+  <a href="https://npmtrends.com/fastforwardit">npmtrends</a> • 
+  <a href="https://bundlephobia.com/package/fastforwardit">bundlephobia</a>
+</p>
 
 ---
 
