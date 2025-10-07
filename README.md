@@ -27,7 +27,7 @@
 <br/>
 
 <p align="center">
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>📌 Metric</th>
