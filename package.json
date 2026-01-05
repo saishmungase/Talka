@@ -3,10 +3,13 @@
   "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build" : "npx tsc -b"
+    "test": "vitest",
+    "build": "npx tsc -b",
+    "report": "npx vitest run --coverage"
   },
   "type": "module",
   "keywords": [],
@@ -19,6 +22,8 @@
     "nodemailer": "^7.0.5"
   },
   "devDependencies": {
-    "@types/nodemailer": "^7.0.1"
+    "@types/nodemailer": "^7.0.1",
+    "@vitest/coverage-v8": "^4.0.16",
+    "vitest": "^4.0.16"
   }
 }
