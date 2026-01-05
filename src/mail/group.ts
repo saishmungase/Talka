@@ -46,7 +46,7 @@ export class Group{
       if (!group) return false;
       const updated = group.filter(p => p !== person);
       this.groups.set(key, updated);
-      return true;
+      return false;
     }
 
 }
